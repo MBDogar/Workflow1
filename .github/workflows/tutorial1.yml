@@ -1,4 +1,3 @@
-tutorial1.yml name: tutorial1
 on: push
 
 jobs:
